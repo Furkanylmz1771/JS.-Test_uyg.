@@ -1,0 +1,27 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.kabuk{
+    background-color: rgb(241, 233, 233);
+    width: 100%;
+    height: max-content;                                /* Ben yazdıkça büyüsün. */
+}
+
+form{
+    max-width: 500px;
+    margin: auto;
+    border: 1px solid  black;
+}
+
+button{
+    width: 100%;
+    background-color: blue;
+    color: white;
+}
+
+p{
+    text-align: center;
+}
